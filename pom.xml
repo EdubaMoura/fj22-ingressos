@@ -167,4 +167,9 @@
         </plugins>
     </build>
 
+	<developers>
+		<name>Eduardo Moura</name>	
+		<email>eduardomoura@gmail.com</email>
+	</developers>
+
 </project>
