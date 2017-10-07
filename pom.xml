@@ -166,10 +166,10 @@
             </plugin>
         </plugins>
     </build>
-
 	<developers>
-		<name>Eduardo Moura</name>	
-		<email>eduardomoura@gmail.com</email>
+		<developer>
+			<name>Eduardo Moura</name>	
+			<email>eduardomoura@gmail.com</email>
+		</developer>
 	</developers>
-
 </project>
